@@ -8,6 +8,8 @@ M.Sc. Computer Science at **Blekinge Institute of Technology, Sweden**
 
 **Curious by nature. Driven to understand problems and build useful solutions.**
 
+[![Portfolio](https://img.shields.io/badge/Visit_my_portfolio-C2A6FF?style=for-the-badge&logo=githubpages&logoColor=16121F)](https://pavan-amikula.github.io/)
+
 [![Explore my projects](https://img.shields.io/badge/Explore_my_projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pavan-amikula?tab=repositories)
 
 </div>
