@@ -32,7 +32,7 @@ I'm eager to learn from others, work through difficult problems, and contribute 
 
 | Project | Problem & approach | Stack |
 | --- | --- | --- |
-| [NetworkPRB](https://github.com/Pavan-amikula/NetworkPRB) | Real 4G/5G resource forecasting: chronological evaluation, calibrated ranges, missing-input checks and a historical replay dashboard | scikit-learn · LightGBM · SQLite · JavaScript |
+| [Reliable 4G/5G Radio Resource Forecasting Under Missing Telemetry](https://github.com/Pavan-amikula/Reliable-4G-5G-Radio-Resource-Forecasting-Under-Missing-Telemetry) | Real 4G/5G resource forecasting: chronological evaluation, calibrated ranges, missing-input checks and a historical replay dashboard | scikit-learn · LightGBM · SQLite · JavaScript |
 | [V4FinBench](https://github.com/Pavan-amikula/V4FinBench) | Financial distress under class imbalance: grouped validation, temporal testing, and feature-timing audits | LightGBM · XGBoost · CatBoost · SHAP |
 | [Heavy Vehicle Predictive Maintenance](https://github.com/Pavan-amikula/Heavy-Vehicle-Predictive-Maintenance) | Rare failure classification: synthetic telemetry, ensemble comparisons, cost-based evaluation, and a Flask interface | scikit-learn · SMOTE · LIME · Flask |
 | [Brain Tumor Classification](https://github.com/Pavan-amikula/Brain-Tumor-Classification) | MRI classification reliability: compare CNNs, investigate class-specific errors, and explore ensemble explanations | TensorFlow · Keras · Grad-CAM · Flask |
